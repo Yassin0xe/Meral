@@ -1,0 +1,4 @@
+#/bin/sh
+gcc meral.c -o meral
+cp meral /usr/bin/meral
+rm meral
